@@ -4,7 +4,8 @@
 
 
 /**
- * main - prints "Programming is like builing a multilingual puzzle, followed by a new line.
+ * main - prints "Programming is like builing a multilingual 
+ * puzzle, followed by a new line.
  * Return: Always 0.
  */
 
