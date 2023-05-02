@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * listint_len -It is meant to return amount of components in any given list that is a linked one
+ * listint_len -Is to  return total items in list that is a linked one
  * @h: Gives a linked list and its of type listint_t to the traverse
  *
  * Return:The exact amount of the nodes
