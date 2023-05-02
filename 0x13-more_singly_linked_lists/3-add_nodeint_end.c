@@ -5,7 +5,7 @@
  * @head: This points at the very first item in the singly linked list
  * @n: This now is data meant to enter in the new component
  *
- * Return: This one points at a new node, or a pointer of NULL in case of a failure
+ * Return: This points at new node, or a pointer of NULL if is failure
  */
 listint_t *add_nodeint_end(listint_t **head, const int n)
 {
