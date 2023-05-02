@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * pop_listint - This is meant to remove the head item in any list that is linked
+ * pop_listint - This is removes the head item from list that is linked
  * @head:This points at the very first item of a list that is linked
  *
  * Return: Data in the item that had been removed,
